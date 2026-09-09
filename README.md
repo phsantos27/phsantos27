@@ -1,4 +1,3 @@
-# README.m
 # Olá, eu sou o Pedro Henrique Santos 👋
 
 **Estudante de Engenharia Metalúrgica | Foco em Dados, Automação e Gestão Operacional**
