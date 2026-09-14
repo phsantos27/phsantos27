@@ -25,13 +25,4 @@ Profissional em desenvolvimento com foco na interseção entre engenharia e inte
 
 ### 📫 Vamos nos conectar?
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](SEU_LINK_DO_LINKEDIN_AQUI)
-Dica extra para a Barra Lateral (Sidebar):
-No lado esquerdo do seu perfil (onde fica sua foto), certifique-se de preencher a sua Localização (ex: Belo Horizonte, MG) e adicionar a URL do seu LinkedIn no campo de Website/Links, para que o ícone oficial apareça logo abaixo da sua biografia.
-
-### 📫 Vamos nos conectar?
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/pedroh-santoss)
-
-
----
-⭐️ *Deixe uma estrela nos repositórios que achar interessantes!*
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](linkedin.com/in/pedroh-so/)
