@@ -22,10 +22,6 @@ Profissional em desenvolvimento com foco na interseção entre engenharia e inte
 - ⚙️ Experiência no desenvolvimento de scripts em **Python** para automação de tarefas em massa, web scraping e estruturação de dados.
 - 📊 Atuação em gestão e logística, coordenando operações e cronogramas em ambientes colaborativos.
 
-### 📁 Projetos em Destaque
-
-*   **[Nome do seu repositório 1](link-do-repo):** Breve descrição (ex: Script em Python para automação de extração de dados via Selenium).
-*   **[Nome do seu repositório 2](link-do-repo):** Breve descrição (ex: Modelagem de banco de dados SQL e análise exploratória com Pandas).
 
 ### 📫 Vamos nos conectar?
 
